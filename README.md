@@ -69,6 +69,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeba-afzal-1099963a3)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areeba-dev-eng)
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
